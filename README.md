@@ -1,0 +1,2 @@
+# Obsidian-scripts
+Obsidian scripts
