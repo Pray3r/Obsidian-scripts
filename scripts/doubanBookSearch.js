@@ -1,3 +1,9 @@
+/*
+ *  
+ *  Yet another douban book script by Pray3r 
+ *  https://kernfunny.org
+ *
+ */
 const notice = msg => new Notice(msg, 5000);
 
 const headers = {
